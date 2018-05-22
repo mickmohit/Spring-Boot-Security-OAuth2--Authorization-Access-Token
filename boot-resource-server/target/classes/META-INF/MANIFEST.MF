@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: boot-resource-server
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: mdarmwal
+Implementation-Vendor-Id: com.javainuse
+Build-Jdk: 1.8.0_152
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/boot-resource-server
+Created-By: Maven Integration for Eclipse
+
